@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-description: An undergraduate studying Biology and Education
+description: 
 
 profile:
   align: right
@@ -15,6 +15,6 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false  # includes social icons at the bottom of the page
 ---
 
-Hi! I'm a senior undergraduate student at Azim Premji University in India. I study Biology and Education, and am interested specifically in Cell and Developmental Biology, as well as parts of Ecology...
+Hi! I'm a senior undergraduate student at Azim Premji University in India. I study Biology and Education, and am interested specifically in Cell and Developmental Biology, as well as parts of Ecology and Evolution. This blog is for the same, as well as other things I think are cool :) 
 
-With labs in India still shut, I am currently working on eliciting the importance of pedigree trees in the context of clinical genetics, and also on pheasant spatial distribution modelling in the trans-Himalayan landscape, with the Nature Conservation Foundation.
+With labs in India still shut, I am currently working on eliciting the importance of pedigree trees in the context of clinical genetics, and also on pheasant spatial distribution modelling in the trans-Himalayan landscape, with the Nature Conservation Foundation. My other hobbies include birding, playing music and running.
