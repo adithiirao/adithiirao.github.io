@@ -12,7 +12,7 @@ profile:
 
 news: false  # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
-social: false  # includes social icons at the bottom of the page
+social: true  # includes social icons at the bottom of the page
 ---
 
 Hi! I'm a senior undergraduate student at Azim Premji University in India. I study Biology and Education, and am interested specifically in Cell and Developmental Biology, as well as parts of Ecology and Evolution. This website is for the same, as well as other things I think are cool :) 
