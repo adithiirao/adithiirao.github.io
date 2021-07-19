@@ -6,7 +6,7 @@ description:
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: my_prof_pic.jpg
   address: >
 
 
