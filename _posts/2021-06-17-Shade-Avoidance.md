@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  Shade Avoidance Syndrome - Do Plants Learn from Light?
-date:   2021-06-02
+date:   2021-06-17
 description: We know that at the simplest level, plants have the ability to grow towards the light, but how do they do this? What environmental cues are they capable of sensing and what do they use this information for?
 ---
 
