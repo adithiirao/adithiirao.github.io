@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The Winged Guardians of the Snow Leopard Landscape
-date: 2021-05-07
+date: 2021-05-12
 description: A potential use of accidental camera-trap sightings in ecology and conservation 
 ---
 

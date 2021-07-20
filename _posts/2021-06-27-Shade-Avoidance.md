@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  Shade Avoidance Syndrome - Do Plants Learn from Light?
-date:   2021-06-17
+date:   2021-06-27
 description: We know that at the simplest level, plants have the ability to grow towards the light, but how do they do this? What environmental cues are they capable of sensing and what do they use this information for?
 ---
 
@@ -13,7 +13,7 @@ Plants perceive light with their photoreceptors, which are essentially made of p
 <div class="row">
 <div class="col">
 <figure class="text-center">
-  <img class="img-fluid rounded" src="{{ site.baseurl }}/assets/img/Shade_Avoidance_F1.png" width="300" class="center-block">
+  <img class="img-fluid rounded" src="{{ site.baseurl }}/assets/img/Shade_Avoidance_F1.png" width="450" class="center-block">
   <figcaption class="figure-caption">  Figure 1: Interconversion between the two phytochrome forms and their corresponding wavelengths.
 <a href="http://intobiology.org.uk/seeing-without-eyes-how-plants-learn-from-light" target="blank">Source: Seeing without eyes - how plants learn from light </a> 
  </figcaption>
